@@ -2,3 +2,4 @@
 https://www.imooc.com/learn/239  
 #zoomImageView  
 https://github.com/QasimCyrus/ZoomImageView-Demo  
+https://github.com/ZhaoYukai/ZoomImageView  
