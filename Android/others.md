@@ -9,3 +9,20 @@ https://www.jianshu.com/p/f212efa590ae
 #支付宝支付  
 支付宝支付官方文档： https://docs.open.alipay.com/204/  
 官方demo下载：https://docs.open.alipay.com/54/104509  
+# 项目实战   
+#电商平台   
+#聊天功能   
+#朋友圈功能   
+#音乐app  
+仿网易云音乐：https://github.com/aa112901/remusic  
+慕课音乐（上中下）： https://www.imooc.com/learn/1104  
+#网络直播app  
+https://github.com/MichaelHuyp/Bilibili_Wuxianda  
+#阅读器类app  
+https://github.com/chentao0707/SimplifyReader  
+#豆芽客服端app  
+https://github.com/DreaminginCodeZH/Douya  
+#即使通信app  
+https://github.com/sealtalk/sealtalk-android  
+#洛克商城app
+https://github.com/Shuyun123/LKShop  
