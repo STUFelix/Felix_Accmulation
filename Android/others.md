@@ -10,6 +10,10 @@ https://www.jianshu.com/p/f212efa590ae
 支付宝支付官方文档： https://docs.open.alipay.com/204/  
 官方demo下载：https://docs.open.alipay.com/54/104509  
 # 项目实战   
+github上的优秀android开源项目 大全 真是太他妈的全了！！！！！！  ：https://blog.csdn.net/cry_smile_hate/article/details/79256190    
+推荐Android几个优质的完整项目学习： https://www.cnblogs.com/Jason-Jan/p/7837405.html  
+收集总结 Android 项目中值得推荐的优秀开源项目： https://github.com/SenhLinsh/Android-Hot-Libraries  
+Amazing open source Android apps written in Java.： https://github.com/Mybridge/amazing-android-apps  
 #电商平台   
 #聊天功能   
 #朋友圈功能   
@@ -23,6 +27,7 @@ https://github.com/chentao0707/SimplifyReader
 #豆芽客服端app  
 https://github.com/DreaminginCodeZH/Douya  
 #即使通信app  
+高仿微信： https://github.com/GitLqr/LQRWeChat   
 https://github.com/sealtalk/sealtalk-android  
-#洛克商城app
+#洛克商城app  
 https://github.com/Shuyun123/LKShop  
