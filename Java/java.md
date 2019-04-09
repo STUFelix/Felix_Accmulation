@@ -2,3 +2,9 @@
 https://docs.oracle.com/javase/10/docs/api/java/util/Scanner.html  
 https://blog.csdn.net/Megustas_JJC/article/details/68960433  
 https://blog.csdn.net/qq_40164190/article/details/81917208  
+#Java  
+https://github.com/Snailclimb/JavaGuide  
+https://github.com/DuGuQiuBai/Java  
+https://zhuanlan.zhihu.com/p/22062736  
+https://github.com/kdn251/interviews/blob/master/README-zh-cn.md  
+https://github.com/kdn251/interviews  
