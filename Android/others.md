@@ -37,3 +37,9 @@ https://github.com/Shuyun123/LKShop
 https://github.com/avjinder/Minimal-Todo  
 #If you are looking to build a travel based app and need to heavily rely on location and maps, then this project is probably the best place to start.  
 https://github.com/project-travel-mate/Travel-Mate  
+
+# 框架  
+Android开源弹幕引擎·烈焰弹幕使 ～  https://github.com/bilibili/DanmakuFlameMaster  
+Android/iOS video player based on FFmpeg n3.4, with MediaCodec, VideoToolbox support.  
+https://github.com/bilibili/ijkplayer  
+
